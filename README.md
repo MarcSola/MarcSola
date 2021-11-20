@@ -1,17 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Marc Solà</h1>
+<h3 align="center">👾 Full-Stack Developer</h3>
 
-<h1 align="center">Hi 👋, I'm Dani Lucaci</h1>
-<h3 align="center">👾 Front-End Developer | 💎 Product Designer | ⏳ #perfmatters | 📷 Sometimes a photographer</h3>
-
-<p align="left">
-As a front end developer, I strive to create digital experiences that are based on the understanding of the pain points and needs of their users to create products that have a strong focus on accessibility, performance and user interaction.
-
-I enjoy translating ideas and products into responsive, interactive experiences in HTML, CSS, and JavaScript with clean and semantic code to develop modern websites and apps using the latest front-end techniques and tools.
-
-I’m always looking for new challenges and opportunities that can help me continue to become a better designer, developer, and person overall. I have a passion for self-learning and improving each day to challenge my skills and to become better at what I do.
-</p>
-
-- 🌱 I’m currently learning **Next.js, Typescript**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with **React & Next**
 
