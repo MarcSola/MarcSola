@@ -3,17 +3,14 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with **React & Next**
+- 🤝 I’m looking for help with **Java**
 
-- 👨‍💻 All of my projects are available at [https://www.danilucaci.com](https://www.danilucaci.com)
 
-- 📝 I regularly write articles on [https://www.danilucaci.com/blog](https://www.danilucaci.com/blog)
+- 💬 Ask me about **React, Redux, Node.js, mongoDB, HTML, CSS, PHP, MySQL, SQL...**
 
-- 💬 Ask me about **react, next, graphql, jest, perf, ux, photography**
+- 📫 How to reach me **marcsr03@gmail.com**
 
-- 📫 How to reach me **hello@danilucaci.com**
-
-- 📄 Know about my experiences [https://es.linkedin.com/in/danilucaci](https://es.linkedin.com/in/danilucaci)
+- 📄 Know about my experiences [https://www.linkedin.com/in/marcsolaramos/](https://www.linkedin.com/in/marcsolaramos/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
