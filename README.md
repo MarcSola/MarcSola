@@ -14,7 +14,7 @@
 
 
 <h3 align="left">Git activity:</h3>
-![MarcSola's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcSola&show_icons=true&theme=merko)
+![MarcSola's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcSola&show_icons=true&theme=gruvbox)
 
 
 <h3 align="left">Languages and Tools:</h3>
