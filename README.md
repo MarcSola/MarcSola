@@ -14,6 +14,7 @@
 
 
 <h3 align="left">Git activity:</h3>
+
 ![MarcSola's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcSola&show_icons=true&theme=gruvbox)
 
 
